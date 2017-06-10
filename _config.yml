@@ -13,16 +13,16 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: mini's blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: mini's blog
 
-description: Stylish Jekyll Theme
+description: mini's blog
 author:
   name: dbyll
   email: dbyll@ismaildemirbilek.com
