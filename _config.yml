@@ -1,11 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# 서버 작동
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "" # does not include hostname
-
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -13,16 +7,16 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: mini's blog
+title: dbyll
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: mini's blog
+      title: dbyll
 
-description: mini's blog
+description: Stylish Jekyll Theme
 author:
   name: dbyll
   email: dbyll@ismaildemirbilek.com
