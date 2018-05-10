@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: mini 개발 블로그
 
 defaults:
   -
@@ -21,8 +21,6 @@ author:
   name: MINIRU
   email: minmin7894@gmail.com
   github: parkmin
-  pinterest: asd123
-  linkedin: asd123
   bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
