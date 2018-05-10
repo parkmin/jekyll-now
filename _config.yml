@@ -8,7 +8,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: mini 블로그
-
+url: https://parkmin.github.io/
 defaults:
   -
     scope:
