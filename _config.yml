@@ -5,7 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
+disqus: miniru
+disqus_id: miniru
 google_analytics: dbyll
 title: mini 블로그
 url: https://parkmin.github.io/
