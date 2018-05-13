@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: miniru
 disqus_id: miniru
-google_analytics: dbyll
+google_analytics: minmin7894
 title: mini 블로그
 url: https://parkmin.github.io/
 defaults:
@@ -16,6 +16,8 @@ defaults:
       path: "" # empty string for all files
     values:
       title: mini's blog
+      type: posts
+    comments: true
 
 description: 개인 블록
 author:
