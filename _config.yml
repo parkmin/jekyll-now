@@ -9,7 +9,7 @@ disqus: miniru
 disqus_id: miniru
 google_analytics: minmin7894
 title: mini 블로그
-url: https://parkmin.github.io/
+url: https://parkmin.github.io
 defaults:
   -
     scope:
