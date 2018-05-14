@@ -4,6 +4,7 @@ comments: true
 ---
 {% include post.html %}
 {% include disqus.html %}
+{% include scripts.html %}
 {% if site.disqus and page.comments %}
     {% include disqus.html %}
 {% endif %}
@@ -26,10 +27,5 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-118965809-1');
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
