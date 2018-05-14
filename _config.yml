@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: mini's blog
+      title: mini 블로그
       type: posts
     comments: true
 
