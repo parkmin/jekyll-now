@@ -1,0 +1,26 @@
+---
+layout: post
+title: '여행준비'
+lastmod : 2017-05-14 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
+categories: [trip]
+tags: [hanoi, 하노이여행, 비엣젯항공, 하노이 항공권준비, 하노이 여행준비]
+---
+
+
+##### 미니멀 밥상 프로젝트
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------
